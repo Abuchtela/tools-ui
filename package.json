@@ -47,7 +47,7 @@
     "@reach/menu-button": "^0.15.3",
     "@reach/tooltip": "^0.15.3",
     "@reach/visually-hidden": "^0.15.2",
-    "@sentry/nextjs": "^7.12.1",
+    "@sentry/nextjs": "^7.66.0",
     "antd": "^4.19.5",
     "autoprefixer": "^10.3.1",
     "beautiful-react-hooks": "^3.6.2",

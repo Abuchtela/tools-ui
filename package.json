@@ -92,7 +92,7 @@
     "recharts": "^2.5.0",
     "tailwindcss": "^2.2.19",
     "uuid": "^9.0.0",
-    "wagmi": "0.12.17",
+    "wagmi": "0.12.18",
     "@wagmi/chains": "1.3.0"
   }
 }

@@ -48,7 +48,7 @@
     "@reach/tooltip": "^0.15.3",
     "@reach/visually-hidden": "^0.15.2",
     "@sentry/nextjs": "^7.12.1",
-    "antd": "^4.19.5",
+    "antd": "^4.23.6",
     "autoprefixer": "^10.3.1",
     "beautiful-react-hooks": "^3.6.2",
     "classnames": "^2.3.1",
